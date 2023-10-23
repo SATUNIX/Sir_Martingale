@@ -1,0 +1,6 @@
+# requirements.txt
+
+numpy
+tensorflow
+pandas
+matplotlib
